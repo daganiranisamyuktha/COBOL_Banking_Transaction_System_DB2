@@ -1,0 +1,8 @@
+* DB2 Connection Configuration
+* Format: KEYWORD VALUE
+SERVER       db2server.example.com
+PORT         50000
+DATABASE     BANKINGDB
+USER         db2user
+PASSWORD     *****
+SCHEMA       BANKING

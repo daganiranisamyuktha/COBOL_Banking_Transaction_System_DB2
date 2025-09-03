@@ -1,0 +1,16 @@
+# DB2 Configuration files with credentials
+DB2CONFIG.txt
+DB2CONFIG
+
+# Other sensitive files
+*.pwd
+*.key
+*.pem
+*credentials*
+
+# COBOL temporary and compiled files
+*.gnt
+*.dll
+*.so
+*.obj
+*.exe

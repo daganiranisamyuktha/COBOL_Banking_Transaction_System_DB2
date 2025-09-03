@@ -1,0 +1,9 @@
+# DB2 Connection Configuration Template
+# INSTRUCTIONS: Copy this file to DB2CONFIG.txt and replace placeholder values
+# Format: KEYWORD VALUE
+SERVER       your-db2-server.example.com
+PORT         50000
+DATABASE     YOUR_DATABASE_NAME
+USER         your_username
+PASSWORD     your_password_here
+SCHEMA       your_schema
